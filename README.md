@@ -1,2 +1,2 @@
-# Stock_Management_System_Console_App
+# Stock Management Console App
 Java Console app for Stock Management system.
